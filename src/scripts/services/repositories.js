@@ -1,4 +1,4 @@
-import {baseUrl, repositoriesQuantity} from '/src/scripts/variables.js'
+import {baseUrl, repositoriesQuantity} from '../variables.js'
 
 
 //solicitar APi do gitHub juntamente com o repositorio de usuario
