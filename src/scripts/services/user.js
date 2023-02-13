@@ -1,5 +1,5 @@
-import {baseUrl} from '/src/scripts/variables.js'
-
+// import {baseUrl} from '/src/scripts/variables.js'
+import { baseUrl } from "../variables.js";
 
 //solicitar APi do gitHub juntamente com o usuario
 async function getUser(username){
