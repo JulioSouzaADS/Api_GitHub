@@ -1,14 +1,13 @@
 # Api_GitHub
-Desvendando a Api GitHub
-![Logo do projeto](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/app/assets/images/logo.png)
+Breaking down the GitHub API
 ![image](https://user-images.githubusercontent.com/98895165/218859259-c92ef79c-b84f-48b5-96d0-c106268add9f.png)
 
 
-## Julio Souza
-This is my blog \o/
-Enjoy It and I hope you can learn a lot!
+*Disciplina é a base do sucesso!
+*Este é o meu blog \o/
+* Aproveite e espero que você possa aprender muito!
 
-## Technology
+## Tecnologia
 
 Here are the technologies used in this project.
 
@@ -17,8 +16,12 @@ Here are the technologies used in this project.
 * CSS
 * API GITHUB
 
-## Services Used
+### 1 - Ao acessar, você verá a página inicial <3
+##  2 - Coloque o nome do Usuario Para Ver detalhes dos ultimos 10 repositorios.
+##  3 - Serão exibidos Eventos Apenas do tipo "Create" e "Push".
 
-* Github
 
-## Getting started
+**Júlio Souza**
+
+Siga o github e junte-se a Mim!
+Obrigado por me visitar e boa codificação!
