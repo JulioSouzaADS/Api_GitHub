@@ -32,7 +32,6 @@ const screen = {
                     eventosItens += `<li> Nome Repositorio : ${eventos.repo.name} -- Tipo Evento : ${eventos.type} -- Descrição Do Commit: ${eventos.payload.commits?.[0].message?? 'Este Evento Não Possui Descrição 💔'} <br><br> </li>`
                     // console.log(eventos)
                 }
-
             // console.log(tiposEventos)
         })
 
